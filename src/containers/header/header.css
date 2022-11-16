@@ -52,6 +52,7 @@
     padding: 0 1rem;
     outline: none;
     color: #fff;
+    
 
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
@@ -65,10 +66,10 @@
     font-weight: 400;
     font-size: 20px;
     line-height: 28px;
-    background: #FF4820;
-    border: 2px solid #FF4820;
+    background: #f3f4f7;
+    border: 2px solid #f3f4f7;
     padding: 0 1rem;
-    color: #fff;
+    color: rgb(45, 5, 131);
     cursor: pointer;
     outline: none;
 
